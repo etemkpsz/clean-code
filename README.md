@@ -2351,7 +2351,5 @@ const actions = function() {
   // ...
 };
 ```
-**[⬆ back to top](#table-of-contents)**
-
 
 **[⬆ back to top](#table-of-contents)**
